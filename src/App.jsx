@@ -28,6 +28,7 @@ const App = () => {
       );
       return;
     }
+    
 
     setLoading(true);
     setColors([]);
